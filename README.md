@@ -45,6 +45,7 @@ When looking at average delivery delays by shipping mode:
 **Standard Class** shipments perform on time on average
 Faster shipping options appear to be more sensitive to operational issues
 This suggests that delivery expectations may not be consistently met, especially for expedited shipping options.
+SQL/KPI3_AVG_Delivery_delay_by_shipping_mode.sql
 
 ## KPI 4 — Actual vs Scheduled Delivery Time
 On average:
