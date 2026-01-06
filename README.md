@@ -37,6 +37,7 @@ SQL/Kpi_order_status_performance.sql
 Out of 180,519 total orders, 98,977 orders were delivered late, resulting in a late delivery rate of 54.83%.
 This shows that late deliveries are not isolated incidents and may indicate broader issues in the delivery and fulfillment process.
 
+SQL/Kpi_late_delivery_rate.sql
 
 ## KPI 3 — Delivery Delay by Shipping Mode
 When looking at average delivery delays by shipping mode:
