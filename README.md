@@ -55,6 +55,8 @@ On average:
 
 Although the difference may seem small, it consistently impacts customer expectations and overall delivery reliability.
 
+SQL/Actual_vs_scheduled_Delivery_days.sql
+
 ## Tableau Dashboard
 The insights from this project are presented in an executive Tableau dashboard that summarizes key KPIs and highlights delivery performance issues.
 
