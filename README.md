@@ -31,12 +31,12 @@ No physical modifications were made to the source data.
 ## KPI 1 — Order Status Performance
 Completed orders generate the highest revenue overall. However, a large number of orders remain in statuses such as pending, processing, and payment review.
 Even though completed orders perform well, these unresolved statuses represent potential cash flow risk and operational inefficiencies.
-**Files** SQL/Kpi_order_status_performance.sql
+**Files** [view SQL query](SQL/Kpi_order_status_performance.sql)
 
 ## KPI 2 — Late Delivery Risk
 Out of 180,519 total orders, 98,977 orders were delivered late, resulting in a late delivery rate of 54.83%.
 This shows that late deliveries are not isolated incidents and may indicate broader issues in the delivery and fulfillment process.
-**Files** SQL/Kpi_late_delivery_rate.sql
+**Files** [view SQL query](SQL/Kpi_late_delivery_rate.sql)
 
 ## KPI 3 — Delivery Delay by Shipping Mode
 When looking at average delivery delays by shipping mode:
@@ -44,7 +44,7 @@ When looking at average delivery delays by shipping mode:
 **Standard Class** shipments perform on time on average
 Faster shipping options appear to be more sensitive to operational issues
 This suggests that delivery expectations may not be consistently met, especially for expedited shipping options.
-**Files** SQL/KPI3_AVG_Delivery_delay_by_shipping_mode.sql
+**Files** [view SQL query](SQL/KPI3_AVG_Delivery_delay_by_shipping_mode.sql)
 
 ## KPI 4 — Actual vs Scheduled Delivery Time
 On average:
@@ -54,7 +54,7 @@ On average:
 
 Although the difference may seem small, it consistently impacts customer expectations and overall delivery reliability.
 
-**Files** SQL/Actual_vs_scheduled_Delivery_days.sql
+**Files** [view SQL query](SQL/Actual_vs_scheduled_Delivery_days.sql)
 
 ## Tableau Dashboard
 The insights from this project are presented in an executive Tableau dashboard that summarizes key KPIs and highlights delivery performance issues.
