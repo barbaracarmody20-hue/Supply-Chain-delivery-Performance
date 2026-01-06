@@ -31,6 +31,7 @@ No physical modifications were made to the source data.
 ## KPI 1 — Order Status Performance
 Completed orders generate the highest revenue overall. However, a large number of orders remain in statuses such as pending, processing, and payment review.
 Even though completed orders perform well, these unresolved statuses represent potential cash flow risk and operational inefficiencies.
+SQL/Kpi_order_status_performance.sql
 
 ## KPI 2 — Late Delivery Risk
 Out of 180,519 total orders, 98,977 orders were delivered late, resulting in a late delivery rate of 54.83%.
